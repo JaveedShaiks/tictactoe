@@ -1,4 +1,4 @@
-# TIc TAC TOE Game
+# TIC TAC TOE Game
 
 Tic Tac Toe Game using React and Redux
 
