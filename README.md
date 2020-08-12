@@ -1,8 +1,10 @@
 # TIc TAC TOE Game
 
-Tic Tac TOE Game using React and Redux
+Tic Tac Toe Game using React and Redux
 
 ## Demos
+
+https://tictactoegame-2020.herokuapp.com/
 
 ## Installation
 
