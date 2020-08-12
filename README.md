@@ -28,6 +28,6 @@ $ npm start
 ## Approach Documentation
 
 - Created initial application using NPX Create react app
-- Created the component which takes player names
+- Created the component which takes player names as input
 - displayed the Game component with the children components - Board, player1 Result component and Player 2 result component
 - used redux store to create the state.
