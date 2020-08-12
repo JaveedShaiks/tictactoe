@@ -2,10 +2,6 @@
 
 Tic Tac Toe Game using React and Redux
 
-## Demos
-
-https://tictactoegame-2020.herokuapp.com/
-
 ## Installation
 
 ```bash\
