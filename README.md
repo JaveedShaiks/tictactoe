@@ -23,7 +23,7 @@ $ npm start
 ## Libraries used
 
 - React
-- redux
+- Redux
 
 ## Approach Documentation
 
